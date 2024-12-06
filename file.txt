@@ -7,3 +7,4 @@ B
 C
 >>>>>>> cool-new-feature
 E
+F
