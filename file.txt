@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Initial commit
 D
+=======
+A
+B
+C
+>>>>>>> cool-new-feature
+E
